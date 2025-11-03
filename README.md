@@ -49,15 +49,6 @@ Este repositorio documenta el proceso de **exploración, análisis y filtrado in
 
 El propósito de esta etapa es generar una base de metadatos unificada y limpia que permita posteriormente **la conversión y organización de las imágenes DICOM** en un dataset maestro estructurado por **densidad mamaria (A–D)** y **categoría BI-RADS (0–6)**.
 
-Este proceso corresponde a la primera fase del trabajo de tesis:
-
-**"Integración y estandarización de bases de datos mamográficas para el entrenamiento de modelos de clasificación de densidad y categoría BI-RADS"**  
-**Autor:** Jhon Jaime Vaca Hincapié  
-**Programa:** Maestría en Ingeniería Automática  
-**Institución:** Fundación Universitaria Los Libertadores  
-**Año:** 2025  
-
----
 
 ## Objetivos
 
@@ -66,7 +57,6 @@ Este proceso corresponde a la primera fase del trabajo de tesis:
 3. Unificar los formatos y nombres de columnas entre las tres fuentes.  
 4. Exportar tres CSV filtrados (uno por dataset) y un CSV final unificado.
 
----
 
 ## 1. Fuentes de datos y descarga
 
@@ -78,33 +68,8 @@ Este proceso corresponde a la primera fase del trabajo de tesis:
 
 Todos los archivos fueron convertidos a formato **CSV** y analizados localmente usando Python (pandas).
 
----
 
-## 2. Estructura de trabajo
-
-Dataset_Metadata_Filtering/
-├── src/
-│ ├── exploracion_INbreast_metadata.py
-│ ├── exploracion_CBIS_metadata.py
-│ ├── exploracion_VINDr_metadata.py
-│ ├── combinacion_filtered_metadata.py
-│
-├── data_raw/
-│ ├── INbreast.csv
-│ ├── CBIS_raw.csv
-│ ├── VINDr_raw.csv
-│
-├── data_filtered/
-│ ├── metadata_filtrado_INbreast_es.csv
-│ ├── metadata_filtrado_CBIS_es.csv
-│ ├── metadata_filtrado_VINDr_es.csv
-│ └── metadata_unificada_CBIS_VINDr_INbreast.csv
-│
-├── README.md
-└── requirements.txt
-
-
-## 3. Criterios de filtrado aplicados
+## 2. Criterios de filtrado aplicados
 
 Se eliminaron registros duplicados, inconsistentes o con valores ausentes en los siguientes campos críticos:
 
@@ -117,7 +82,7 @@ Se eliminaron registros duplicados, inconsistentes o con valores ausentes en los
 
 Los campos se homogenizaron en nombres y formato antes de la unificación.
 
-## 4. Scripts incluidos y parámetros estandarizados
+## 3. Scripts incluidos y parámetros estandarizados
 
 A continuación se describen los scripts de exploración y filtrado de metadatos aplicados a cada una de las tres bases de datos, junto con las variables que fueron seleccionadas para conservar en el proceso de integración.
 
