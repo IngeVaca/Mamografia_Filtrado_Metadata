@@ -1,0 +1,411 @@
+id_paciente,id_imagen,lateralidad,vista,densidad_mamaria,categoria_birads,fuente_datos
+removed,22678622,Derecha,Craneocaudal,D,1.0,INbreast
+removed,22678646,Izquierda,Craneocaudal,D,3.0,INbreast
+removed,22678670,Derecha,Oblicua mediolateral,D,1.0,INbreast
+removed,22678694,Izquierda,Oblicua mediolateral,D,3.0,INbreast
+removed,22614074,Derecha,Craneocaudal,B,5.0,INbreast
+removed,22614097,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,22614127,Derecha,Oblicua mediolateral,B,5.0,INbreast
+removed,22614150,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50997434,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50997461,Derecha,Oblicua mediolateral,C,,INbreast
+removed,50997488,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,50997515,Derecha,Craneocaudal,C,,INbreast
+removed,24055445,Izquierda,Oblicua mediolateral,A,,INbreast
+removed,24055464,Derecha,Oblicua mediolateral,A,,INbreast
+removed,24055483,Izquierda,Craneocaudal,A,,INbreast
+removed,24055502,Derecha,Craneocaudal,A,,INbreast
+removed,22580192,Derecha,Craneocaudal,B,3.0,INbreast
+removed,22580218,Izquierda,Craneocaudal,B,1.0,INbreast
+removed,22580244,Derecha,Oblicua mediolateral,B,3.0,INbreast
+removed,22580270,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,50998032,Derecha,Craneocaudal,C,2.0,INbreast
+removed,50998059,Izquierda,Oblicua mediolateral,C,5.0,INbreast
+removed,50998086,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,50998113,Izquierda,Craneocaudal,C,5.0,INbreast
+removed,50997742,Izquierda,Oblicua mediolateral,A,3.0,INbreast
+removed,50997769,Derecha,Oblicua mediolateral,A,3.0,INbreast
+removed,50997796,Izquierda,Craneocaudal,A,3.0,INbreast
+removed,50997823,Derecha,Craneocaudal,A,3.0,INbreast
+removed,22670620,Derecha,Craneocaudal,A,2.0,INbreast
+removed,22670643,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,22670673,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,22670703,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,53581379,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,53581406,Derecha,Oblicua mediolateral,A,6.0,INbreast
+removed,53581433,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,53581460,Derecha,Craneocaudal,A,6.0,INbreast
+removed,24065833,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,24065860,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,24065887,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,24065914,Derecha,Craneocaudal,C,2.0,INbreast
+removed,24055877,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,24055904,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,24055931,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,24055958,Derecha,Craneocaudal,A,2.0,INbreast
+removed,53587427,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,53587454,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,53587481,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,53587508,Derecha,Craneocaudal,B,2.0,INbreast
+removed,51049462,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,51049489,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,51049516,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,51049543,Derecha,Craneocaudal,B,2.0,INbreast
+removed,51049628,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,51049655,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,51049682,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,51070197,Derecha,Craneocaudal,B,2.0,INbreast
+removed,53580611,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,53580638,Derecha,Oblicua mediolateral,A,3.0,INbreast
+removed,53580665,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,53580692,Derecha,Craneocaudal,A,3.0,INbreast
+removed,53586960,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,53586987,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,53587014,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,53587041,Derecha,Craneocaudal,A,2.0,INbreast
+removed,51048891,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,51048918,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,51048945,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,51048972,Derecha,Craneocaudal,C,2.0,INbreast
+removed,20588458,Derecha,Craneocaudal,B,2.0,INbreast
+removed,20588510,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,20588536,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,20588562,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,22670809,Derecha,Craneocaudal,A,,INbreast
+removed,22670832,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,22670855,Derecha,Oblicua mediolateral,A,5.0,INbreast
+removed,22670878,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,22678953,Derecha,Craneocaudal,C,,INbreast
+removed,22678980,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,22679008,Derecha,Oblicua mediolateral,C,,INbreast
+removed,22679036,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50998413,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50998440,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,50998467,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,50998494,Derecha,Craneocaudal,A,2.0,INbreast
+removed,20587294,Derecha,Craneocaudal,A,2.0,INbreast
+removed,20587320,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,20587346,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,20587372,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,20587466,Izquierda,Craneocaudal,D,2.0,INbreast
+removed,20587492,Derecha,Oblicua mediolateral,D,2.0,INbreast
+removed,20587518,Izquierda,Oblicua mediolateral,D,2.0,INbreast
+removed,20587544,Derecha,Craneocaudal,D,2.0,INbreast
+removed,50996201,Izquierda,Oblicua mediolateral,D,2.0,INbreast
+removed,50996228,Izquierda,Craneocaudal,D,2.0,INbreast
+removed,50993787,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50993814,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,50993841,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,50993868,Derecha,Craneocaudal,C,2.0,INbreast
+removed,50993895,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50993922,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,50993949,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,50993976,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22614353,Derecha,Craneocaudal,A,2.0,INbreast
+removed,22614379,Izquierda,Craneocaudal,A,5.0,INbreast
+removed,22614405,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,22614431,Izquierda,Oblicua mediolateral,A,5.0,INbreast
+removed,53587572,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,53587599,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,50996800,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50996827,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,50996854,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,50996881,Derecha,Craneocaudal,B,2.0,INbreast
+removed,50993399,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50993426,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,27829134,Derecha,Craneocaudal,A,5.0,INbreast
+removed,27829161,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,27829188,Derecha,Oblicua mediolateral,A,5.0,INbreast
+removed,27829215,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,50997223,Izquierda,Oblicua mediolateral,D,2.0,INbreast
+removed,50997250,Derecha,Oblicua mediolateral,D,2.0,INbreast
+removed,50997277,Izquierda,Craneocaudal,D,2.0,INbreast
+removed,50997304,Derecha,Craneocaudal,D,2.0,INbreast
+removed,22670442,Derecha,Craneocaudal,B,1.0,INbreast
+removed,22670465,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,22670488,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,22670511,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,53581769,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,53581796,Izquierda,Craneocaudal,B,1.0,INbreast
+removed,24065530,Izquierda,Oblicua mediolateral,D,,INbreast
+removed,24065557,Derecha,Oblicua mediolateral,D,2.0,INbreast
+removed,24065584,Izquierda,Craneocaudal,D,,INbreast
+removed,24065611,Derecha,Craneocaudal,D,2.0,INbreast
+removed,53587104,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,53587131,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,30011484,Derecha,Craneocaudal,A,2.0,INbreast
+removed,30011507,Izquierda,Craneocaudal,A,,INbreast
+removed,30011530,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,30011553,Izquierda,Oblicua mediolateral,A,,INbreast
+removed,24055573,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,24055600,Derecha,Oblicua mediolateral,C,,INbreast
+removed,24055627,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,24055654,Derecha,Craneocaudal,C,,INbreast
+removed,24065680,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,24065707,Derecha,Oblicua mediolateral,A,5.0,INbreast
+removed,24065734,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,24065761,Derecha,Craneocaudal,A,5.0,INbreast
+removed,50999432,Izquierda,Oblicua mediolateral,A,5.0,INbreast
+removed,50999459,Izquierda,Craneocaudal,A,5.0,INbreast
+removed,51048738,Derecha,Oblicua mediolateral,C,3.0,INbreast
+removed,51048765,Derecha,Craneocaudal,C,3.0,INbreast
+removed,50998177,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50998204,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,50998231,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,50998258,Derecha,Craneocaudal,C,2.0,INbreast
+removed,20588308,Izquierda,Oblicua mediolateral,D,3.0,INbreast
+removed,20588334,Izquierda,Craneocaudal,D,3.0,INbreast
+removed,22678787,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22678810,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,22678833,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,22678856,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,22580341,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22580367,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,22580393,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,22580419,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,24055149,Izquierda,Oblicua mediolateral,C,5.0,INbreast
+removed,24055176,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,24055203,Izquierda,Craneocaudal,C,5.0,INbreast
+removed,20587994,Derecha,Craneocaudal,C,6.0,INbreast
+removed,20588020,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,20588046,Derecha,Oblicua mediolateral,C,6.0,INbreast
+removed,20588072,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,26933772,Derecha,Craneocaudal,C,2.0,INbreast
+removed,26933801,Izquierda,Craneocaudal,C,,INbreast
+removed,26933830,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,26933859,Izquierda,Oblicua mediolateral,C,,INbreast
+removed,50995762,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,50995789,Derecha,Craneocaudal,A,2.0,INbreast
+removed,22670278,Derecha,Craneocaudal,A,,INbreast
+removed,22670301,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,22670324,Derecha,Oblicua mediolateral,A,,INbreast
+removed,22670347,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,53582540,Derecha,Oblicua mediolateral,,1.0,INbreast
+removed,53582567,Derecha,Craneocaudal,B,1.0,INbreast
+removed,22427682,Derecha,Craneocaudal,B,2.0,INbreast
+removed,22427705,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,22427728,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,22427751,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,22613624,Derecha,Craneocaudal,B,2.0,INbreast
+removed,22613650,Izquierda,Craneocaudal,B,6.0,INbreast
+removed,22613676,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,22613702,Izquierda,Oblicua mediolateral,B,6.0,INbreast
+removed,24055274,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,24055328,Derecha,Oblicua mediolateral,B,3.0,INbreast
+removed,24055355,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,24055382,Derecha,Craneocaudal,B,3.0,INbreast
+removed,53586361,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,53586388,Derecha,Oblicua mediolateral,A,1.0,INbreast
+removed,53586415,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,53586442,Derecha,Craneocaudal,A,1.0,INbreast
+removed,30011647,Derecha,Craneocaudal,A,2.0,INbreast
+removed,30011674,Izquierda,Craneocaudal,A,5.0,INbreast
+removed,30011700,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,30011727,Izquierda,Oblicua mediolateral,A,5.0,INbreast
+removed,53581860,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,53581887,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,53581914,Izquierda,Craneocaudal,B,1.0,INbreast
+removed,53581941,Derecha,Craneocaudal,B,2.0,INbreast
+removed,20588138,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,20588164,Derecha,Craneocaudal,B,1.0,INbreast
+removed,20588190,Izquierda,Craneocaudal,B,,INbreast
+removed,20588216,Izquierda,Oblicua mediolateral,B,,INbreast
+removed,50996945,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50996972,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,50996999,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,50997026,Derecha,Craneocaudal,A,2.0,INbreast
+removed,50997053,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,50997080,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,50997107,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,50997134,Derecha,Craneocaudal,A,2.0,INbreast
+removed,20587758,Izquierda,Craneocaudal,C,3.0,INbreast
+removed,20587784,Derecha,Oblicua mediolateral,C,3.0,INbreast
+removed,20587810,Izquierda,Oblicua mediolateral,C,3.0,INbreast
+removed,20587836,Derecha,Craneocaudal,C,3.0,INbreast
+removed,50996056,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50996083,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,50996110,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,50996137,Derecha,Craneocaudal,A,2.0,INbreast
+removed,53582395,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,53582422,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,53582449,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,53582476,Derecha,Craneocaudal,A,2.0,INbreast
+removed,50999094,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50999121,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,50999148,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,50999175,Derecha,Craneocaudal,B,1.0,INbreast
+removed,50999246,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50999273,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,50999300,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,50999327,Derecha,Craneocaudal,B,1.0,INbreast
+removed,50994535,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,50994562,Derecha,Craneocaudal,B,2.0,INbreast
+removed,50994589,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,50994616,Derecha,Craneocaudal,B,2.0,INbreast
+removed,22427840,Derecha,Craneocaudal,B,5.0,INbreast
+removed,22427864,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,22579730,Derecha,Oblicua mediolateral,B,5.0,INbreast
+removed,22579754,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,30011798,Derecha,Craneocaudal,B,2.0,INbreast
+removed,30011824,Izquierda,Craneocaudal,B,,INbreast
+removed,30011850,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,30318067,Izquierda,Oblicua mediolateral,B,,INbreast
+removed,50996709,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,50996736,Derecha,Craneocaudal,B,2.0,INbreast
+removed,51049053,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,51049080,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,51049107,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,51049134,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22614236,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,22614266,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,50994706,Derecha,Craneocaudal,C,1.0,INbreast
+removed,50994733,Izquierda,Oblicua mediolateral,C,1.0,INbreast
+removed,50994760,Derecha,Oblicua mediolateral,C,1.0,INbreast
+removed,50994787,Izquierda,Craneocaudal,C,1.0,INbreast
+removed,50994814,Izquierda,Oblicua mediolateral,C,1.0,INbreast
+removed,50994841,Derecha,Oblicua mediolateral,C,,INbreast
+removed,50994868,Izquierda,Craneocaudal,C,1.0,INbreast
+removed,50994895,Derecha,Craneocaudal,C,,INbreast
+removed,53586724,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,53586751,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,53586778,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,53586805,Derecha,Craneocaudal,A,2.0,INbreast
+removed,22614499,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22614522,Izquierda,Craneocaudal,C,,INbreast
+removed,22614545,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,22614568,Izquierda,Oblicua mediolateral,C,,INbreast
+removed,51049249,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,51049276,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,24058660,Derecha,Craneocaudal,A,2.0,INbreast
+removed,24058686,Izquierda,Craneocaudal,A,,INbreast
+removed,24058712,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,24058738,Izquierda,Oblicua mediolateral,A,,INbreast
+removed,22613918,Derecha,Craneocaudal,B,,INbreast
+removed,22613944,Izquierda,Craneocaudal,B,1.0,INbreast
+removed,22613970,Derecha,Oblicua mediolateral,B,,INbreast
+removed,22613996,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,53580804,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,53580831,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,53580858,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,53580885,Derecha,Craneocaudal,B,2.0,INbreast
+removed,20587612,Derecha,Craneocaudal,A,5.0,INbreast
+removed,20587638,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,20587664,Derecha,Oblicua mediolateral,A,5.0,INbreast
+removed,20587690,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,24065380,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,24065407,Derecha,Oblicua mediolateral,B,,INbreast
+removed,24065434,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,24065461,Derecha,Craneocaudal,B,,INbreast
+removed,53581237,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,53581264,Derecha,Craneocaudal,B,1.0,INbreast
+removed,22670094,Derecha,Craneocaudal,A,6.0,INbreast
+removed,22670124,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,22670147,Derecha,Oblicua mediolateral,A,6.0,INbreast
+removed,22670177,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50993616,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50993643,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,50993670,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50993697,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,20587148,Derecha,Craneocaudal,B,2.0,INbreast
+removed,20587174,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,20587200,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,20587226,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,22580492,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22580520,Izquierda,Craneocaudal,C,5.0,INbreast
+removed,22580548,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,22580576,Izquierda,Oblicua mediolateral,C,5.0,INbreast
+removed,22579847,Derecha,Craneocaudal,C,2.0,INbreast
+removed,22579870,Izquierda,Craneocaudal,C,,INbreast
+removed,22579893,Derecha,Oblicua mediolateral,C,2.0,INbreast
+removed,22579916,Izquierda,Oblicua mediolateral,C,,INbreast
+removed,53582656,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,53582683,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,53582710,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,53582737,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,53582764,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,53582791,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,53582818,Derecha,Craneocaudal,B,2.0,INbreast
+removed,22670978,Izquierda,Craneocaudal,D,,INbreast
+removed,22671003,Izquierda,Oblicua mediolateral,D,,INbreast
+removed,53582304,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,53582331,Derecha,Craneocaudal,B,1.0,INbreast
+removed,20586908,Derecha,Craneocaudal,B,2.0,INbreast
+removed,20586934,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,20586986,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,20586960,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,53587663,Derecha,Craneocaudal,A,2.0,INbreast
+removed,53587690,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,53587717,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,53587744,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,50998981,Derecha,Oblicua mediolateral,B,5.0,INbreast
+removed,50999008,Derecha,Craneocaudal,B,5.0,INbreast
+removed,53586869,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,53586896,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,24054997,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,24055024,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,24055051,Izquierda,Craneocaudal,B,1.0,INbreast
+removed,24055078,Derecha,Craneocaudal,B,2.0,INbreast
+removed,20587054,Derecha,Craneocaudal,B,,INbreast
+removed,20587080,Derecha,Oblicua mediolateral,B,,INbreast
+removed,24065251,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,24065270,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,24065289,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,24065308,Derecha,Craneocaudal,B,1.0,INbreast
+removed,50998322,Derecha,Oblicua mediolateral,A,1.0,INbreast
+removed,50998349,Derecha,Craneocaudal,A,1.0,INbreast
+removed,50996325,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,50996352,Derecha,Oblicua mediolateral,A,,INbreast
+removed,50996379,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,50996406,Derecha,Craneocaudal,A,,INbreast
+removed,50997597,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50997624,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,50997651,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,50997678,Derecha,Craneocaudal,A,2.0,INbreast
+removed,50995872,Izquierda,Oblicua mediolateral,A,1.0,INbreast
+removed,50995899,Izquierda,Craneocaudal,A,1.0,INbreast
+removed,22580654,Derecha,Craneocaudal,A,5.0,INbreast
+removed,22580680,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,22580706,Derecha,Oblicua mediolateral,A,5.0,INbreast
+removed,22580732,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50995963,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,50995990,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,20588654,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,20588680,Izquierda,Oblicua mediolateral,A,3.0,INbreast
+removed,50994110,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50994137,Derecha,Oblicua mediolateral,C,1.0,INbreast
+removed,50994164,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,50994191,Derecha,Craneocaudal,C,1.0,INbreast
+removed,50994273,Derecha,Craneocaudal,C,,INbreast
+removed,50994300,Derecha,,C,2.0,INbreast
+removed,50994327,Izquierda,Oblicua mediolateral,C,2.0,INbreast
+removed,50994354,Derecha,Oblicua mediolateral,C,,INbreast
+removed,50994381,Izquierda,Craneocaudal,C,2.0,INbreast
+removed,50994408,Derecha,Craneocaudal,C,2.0,INbreast
+removed,53581124,Izquierda,Oblicua mediolateral,C,1.0,INbreast
+removed,53581151,Izquierda,Craneocaudal,C,1.0,INbreast
+removed,20587902,Derecha,Craneocaudal,D,3.0,INbreast
+removed,20587928,Derecha,Oblicua mediolateral,D,3.0,INbreast
+removed,53580979,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,53581006,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,53581033,Izquierda,Craneocaudal,B,1.0,INbreast
+removed,53581060,Derecha,Craneocaudal,B,1.0,INbreast
+removed,50998580,Izquierda,Oblicua mediolateral,B,2.0,INbreast
+removed,50998607,Derecha,Oblicua mediolateral,B,1.0,INbreast
+removed,50998634,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,50998661,Derecha,Craneocaudal,B,1.0,INbreast
+removed,22678449,Derecha,Craneocaudal,A,2.0,INbreast
+removed,22678472,Izquierda,Craneocaudal,A,2.0,INbreast
+removed,22678495,Derecha,Oblicua mediolateral,A,2.0,INbreast
+removed,22678518,Izquierda,Oblicua mediolateral,A,2.0,INbreast
+removed,22580015,Derecha,Craneocaudal,B,2.0,INbreast
+removed,22580038,Izquierda,Craneocaudal,B,5.0,INbreast
+removed,22580068,Derecha,Oblicua mediolateral,B,2.0,INbreast
+removed,22580098,Izquierda,Oblicua mediolateral,B,5.0,INbreast
+removed,22613770,Derecha,Craneocaudal,B,5.0,INbreast
+removed,22613796,Izquierda,Craneocaudal,B,2.0,INbreast
+removed,22613822,Derecha,Oblicua mediolateral,B,5.0,INbreast
+removed,22613848,Izquierda,Oblicua mediolateral,B,1.0,INbreast
+removed,24055725,Izquierda,Oblicua mediolateral,D,2.0,INbreast
+removed,24055752,Derecha,Oblicua mediolateral,D,2.0,INbreast
+removed,24055779,Izquierda,Craneocaudal,D,2.0,INbreast
+removed,24055806,Derecha,Craneocaudal,D,2.0,INbreast
